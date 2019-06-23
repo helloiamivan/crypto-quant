@@ -1,0 +1,15 @@
+bitcoin
+tether
+ethereum
+stratis
+dash
+monero
+zcash
+bitshares
+ripple
+litecoin
+stellar
+ethereum-classic
+lisk
+verge
+neo

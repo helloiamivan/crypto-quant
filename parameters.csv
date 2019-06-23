@@ -1,0 +1,13 @@
+Backtest Mode,True
+Start Date,2017/01/01
+Minimum Market Cap,1000000000
+Minimum Listing Period,365
+Circulating Percentage,0.3
+Minimum Exchange Listing,10
+Weighting Scheme,MeanVariance
+Minimum Weight,0.01
+Maximum Weight,0.5
+Offset,30
+Periodicity,Daily
+Lookback Window,365
+Coins To Omit,tether;lisk;dash
